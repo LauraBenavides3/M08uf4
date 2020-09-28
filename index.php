@@ -19,5 +19,10 @@ and open the template in the editor.
         
         }
         ?>
+        <?php
+        function LBAfuncion3(){
+        
+        }
+        ?>
     </body>
 </html>
