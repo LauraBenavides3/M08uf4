@@ -26,7 +26,7 @@ and open the template in the editor.
         ?>
          <?php
         function LBA_especial(){
-        
+        echo "Laura Benavides Ameijeiras";
         }
         ?>
     </body>
