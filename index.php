@@ -14,5 +14,10 @@ and open the template in the editor.
         function LBAfuncion1(){
             
         ?>
+        <?php
+        function LBAfuncion2(){
+        
+        }
+        ?>
     </body>
 </html>
